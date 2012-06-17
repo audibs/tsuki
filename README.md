@@ -1,4 +1,5 @@
-tsuki
+TSUKI
 =====
 
-Desarrollo del sitio tsuki con direccion temporal en tsukiaudi.comuf.com
+Proyecto sobre el sitio 'Tsuki' desarrollado en colaboracion de audibs
+http://tsukiaudi.comuf.com/
